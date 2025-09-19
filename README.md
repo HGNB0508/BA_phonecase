@@ -2,6 +2,7 @@
 ---
 # 도안
 
+1차 도안
 ![히카리1](https://github.com/user-attachments/assets/b81654fe-9843-4493-bb74-7dc9cf2afd45)
 ![히카리2](https://github.com/user-attachments/assets/65456942-e96d-481a-bbd8-a88638b2ddaf)
 ![히비키](https://github.com/user-attachments/assets/11a0e065-e067-49da-b51a-4caa93dac7e9)
@@ -53,6 +54,8 @@
 ![나구사](https://github.com/user-attachments/assets/1de50bb4-2856-490e-aad8-9cf0e58b7dce)
 ![히후미](https://github.com/user-attachments/assets/d1a15d06-8aec-4b4f-89d7-e5b6d7697a9d)
 
+
+2차 도안
 <img width="2254" height="1674" alt="사키" src="https://github.com/user-attachments/assets/2c4d447c-7ce9-46cb-9555-78bcf6eeed17" />
 <img width="2254" height="1674" alt="아스나" src="https://github.com/user-attachments/assets/209769d0-e801-45bf-90a9-1c7f99cd43e3" />
 <img width="2254" height="1674" alt="카요코(신년)" src="https://github.com/user-attachments/assets/8439ddb7-bba0-4ae0-a562-9e5f82eaf72c" />
