@@ -2,10 +2,8 @@
 ---
 # 도안
 
-히카리
 ![히카리1](https://github.com/user-attachments/assets/b81654fe-9843-4493-bb74-7dc9cf2afd45)
 ![히카리2](https://github.com/user-attachments/assets/65456942-e96d-481a-bbd8-a88638b2ddaf)
-히비키
 ![히비키](https://github.com/user-attachments/assets/11a0e065-e067-49da-b51a-4caa93dac7e9)
 ![히나](https://github.com/user-attachments/assets/4d0c6acd-389d-45b1-96b9-5fb5763d898c)
 ![호시노](https://github.com/user-attachments/assets/9c31dfb2-a86f-4418-b040-817448a50cf7)
